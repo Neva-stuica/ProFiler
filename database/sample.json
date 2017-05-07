@@ -1,0 +1,41 @@
+{
+	"size": 5,
+	"date": "1970/01/01 00:00:00",
+	"file_list": [
+		{
+			"MimeType": {"base": "video", "ext": "mp4"},
+			"NameGroups": ["Re", "Zero", "Kara", "Hajimeru", "Isekai", "Seikatsu", "01a", "Vostfr", "1080p", "mp4"],
+			"ParentDirectories": ["Vidéos"],
+			"Author": "lacomm_m",
+			"Taille": 332767546
+		},
+		{
+			"MimeType": {"base": "video", "ext": "mp4"},
+			"NameGroups": ["Re", "Zero", "Kara", "Hajimeru", "Isekai", "Seikatsu", "09", "Vostfr", "1080p", "mp4"],
+			"ParentDirectories": ["Vidéos"],
+			"Author": "lacomm_m",
+			"Taille": 259622432
+		},
+		{
+			"MimeType": {"base": "video", "ext": "mp4"},
+			"NameGroups": ["Re", "Zero", "Kara", "Hajimeru", "Isekai", "Seikatsu", "12", "Vostfr", "1080p", "mp4"],
+			"ParentDirectories": ["Vidéos"],
+			"Author": "lacomm_m",
+			"Taille": 332768546
+		},
+		{
+			"MimeType": {"base": "video", "ext": "mp4"},
+			"NameGroups": ["Re", "Zero", "Kara", "Hajimeru", "Isekai", "Seikatsu", "01b", "Vostfr", "1080p", "mp4"],
+			"ParentDirectories": ["Vidéos"],
+			"Author": "lacomm_m",
+			"Taille": 332867546
+		},
+		{
+			"MimeType": {"base": "image", "ext": "png"},
+			"NameGroups": ["Carte", "bepo", "simple", "png"],
+			"ParentDirectories": ["Images"],
+			"Author": "lacomm_m",
+			"Taille": 12334
+		}
+	]
+}
